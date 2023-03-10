@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+:root{
+  --xiketic-color: #02021e;
+  --midnight-color: #14142d;
+  
+}
+*{
+  background-color: var(--xiketic-color);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: aliceblue;
+  font-family: 'Montserrat', sans-serif;
+}
+#navbar_wrapper{
+  height: 10vh;
+  width: 100%;
+}
+
